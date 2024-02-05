@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+  <book>
+    <title>The Lord of the Rings</title>
+    <author>J.R.R. Tolkien</author>
+    <genre>Fantasy</genre>
+    <year>1954</year>
+    <isbn>978-0547928220</isbn>
+  </book>
+  <book>
+    <title>Pride and Prejudice</title>
+    <author>Jane Austen</author>
+    <genre>Romance</genre>
+    <year>1813</year>
+    <isbn>978-0140435225</isbn>
+  </book>
+  <book>
+    <title>To Kill a Mockingbird</title>
+    <author>Harper Lee</author>
+    <genre>Fiction</genre>
+    <year>1960</year>
+    <isbn>978-0446310780</isbn>
+  </book>
+</books>
