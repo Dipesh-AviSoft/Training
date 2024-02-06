@@ -1,0 +1,2 @@
+['Mango', 'orange', 'apple', 'lemon'] 
+['dog', 'cat', 'snake', 'cow'] 
