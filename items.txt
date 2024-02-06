@@ -1,2 +1,1 @@
-['Mango', 'orange', 'apple', 'lemon'] 
-['dog', 'cat', 'snake', 'cow'] 
+Mango,orange,apple,lemon
