@@ -146,7 +146,7 @@ applications
 
 Answer: applications
 
-14. A (n) –– is a program that makes the computer easier to use ?
+14. A _______ is a program that makes the computer easier to use ?
 utility 
 
 application 
@@ -173,7 +173,6 @@ Answer: programmer
 
 One Word Answer
 
-
 1. What are two things you can never eat for breakfast?
 
 Lunch and Dinner
@@ -184,11 +183,11 @@ Tomorrow
 
 3. What gets wetter the more it dries? 
 
-A towel
+towel
 
 4. What can be broken but never held? 
 
-A promise
+promise
 
 5. What word is spelled incorrectly in every single dictionary?
 
@@ -200,35 +199,39 @@ Fire
 
 7. What never asks a question but gets answered all the time?
 
-Your cellphone
+cellphone
 
 
 8. What word would you use to describe a man who does not have all his fingers on one hand?
 
-Normal, because people usually have half their fingers on one hand.
+Normal
 
 9. What goes up but never ever comes down?
 
-Your age
+age
 
 10. What can one catch that is not thrown?
 
-A cold
+cold
 
 
-12. If you have one, you want to share it. But once you share it, you do not have it. What is it?
+11. If you have one, you want to share it. But once you share it, you do not have it. What is it?
 
-A secret
+secret
 
-13. What starts with "e" and ends with "e" but only has one letter in it?
+12. What starts with "e" and ends with "e" but only has one letter in it?
 
-An envelope
+envelope
 
-14. If a plane crashes on the border between the United States and Canada, where do they bury the survivors?
+13. If a plane crashes on the border between the United States and Canada, where do they bury the survivors?
 
 Survivors aren’t buried!
 
 
-15. How can a girl go 25 days without sleep?
+14. How can a girl go 25 days without sleep?
 
 She sleeps at night
+
+15. Which word becomes shorter when you add 2 letters to it?
+
+short
